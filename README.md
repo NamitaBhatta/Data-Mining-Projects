@@ -11,3 +11,8 @@ A collection of data mining and machine learning projects exploring classificati
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Contributors
+
+- [Namita Bhatta](https://github.com/NamitaBhatta)
+- [Kristina Bhandari](https://github.com/Kristinabhandari)
